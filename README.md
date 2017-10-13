@@ -1,2 +1,2 @@
 # james-cassandra
-Recipes for Apache James server mail. 
+This Roboconf recipe allows to deploy a dockerized version of James server mail with Cassandra. 
