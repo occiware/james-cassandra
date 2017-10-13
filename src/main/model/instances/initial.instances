@@ -1,0 +1,19 @@
+
+instance of VM {
+	name: James-cassandra;
+	
+	instance of James {
+		name: James;
+	}
+	
+	instance of cassandraNode {
+		name: Cassandra;
+	}
+	
+	instance of elasticSearch {
+		name: ElasticSearch;
+	}
+
+} 
+
+
